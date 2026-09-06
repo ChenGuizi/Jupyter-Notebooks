@@ -1,2 +1,2 @@
-# ccr_chatbot
-consumer credit risk chatbot
+# jupyter notebooks
+jupyter notebooks
