@@ -1,0 +1,8 @@
+[project]
+name = "jupyter-notebook"
+version = "0.1.0"
+requires-python = ">=3.9"
+dependencies = [
+    "deepagents==0.2.8",  # Try an earlier version
+    "python-dotenv",
+]
